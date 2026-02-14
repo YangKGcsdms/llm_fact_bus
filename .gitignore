@@ -1,0 +1,36 @@
+# Build outputs
+target/
+build/
+out/
+
+# IDE/editor
+.idea/
+.vscode/
+*.iml
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Local env / secrets
+.env
+.env.*
+*.local
+secrets/
+
+# Java artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Test artifacts
+coverage/
+reports/
+
+# Cursor/local planning artifacts
+.cursor/
