@@ -1,5 +1,7 @@
 # Fact Bus
 
+[English](README.md) | [简体中文](README-zh.md)
+
 Fact Bus is an event-driven governance runtime for LLM/agent systems.
 It enforces deterministic system behavior over probabilistic agents through:
 
